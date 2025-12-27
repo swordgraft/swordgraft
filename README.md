@@ -12,9 +12,9 @@
 </p>
 <br><br>
 <p align="center">
-   $$\color{#50a55d }{\mathscr{text \ text \ text.}}$$
+   $$\color{#50a55d }{\mathscr{ usually \ offtab \ / \ afk. \ feel \ free \ to \ int. }}$$
   <p align="center">
-  $$\color{#50a55d }{\mathscr{text \ text \ text.}}$$
+  $$\color{#50a55d }{\mathscr{ where \ the \ other \ 5 \ swordgraft \ fans \ at??? \ /silly }}$$
 </p>
 <br><br>
 <p align="center">
