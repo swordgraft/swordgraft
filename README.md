@@ -5,7 +5,7 @@
 　　　　　　　　　 $$\color{#c1492d }{\mathscr{❝ Well... \ at \ least \ you \ got \ the \ spirit. ❞}}$$
 <br><br>
 <p align="center">
-  <img src="https://i.imgur.com/BFPvMoc.png" width="300" />
+  <img src="https://i.imgur.com/FXEcme8.png" width="300" />
 <br><br>
 <p align="center">
 <img src="https://i.imgur.com/svWJ2kI.gif" width="40" /> <img src="https://i.imgur.com/yG1EZk2.gif" width="40" />
