@@ -1,8 +1,6 @@
-<p align="justify">$$\color{#c1492d }{\mathscr{❝ text \ text \ text. ❞}}$$</p>
-<p align="right">
-$$\color{#c1492d }{\mathscr{❝ text \ text \ text. ❞}}$$
-$$\color{#F29C47 }{\mathscr{❝ text \ text \ text. ❞}}$$
-</p>
+　　　　　　　　　　　　　　　　　　　　　　　 $$\color{#c1492d }{\mathscr{❝ text \ text \ text. ❞}}$$
+<br><br>
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 $$\color{#F29C47 }{\mathscr{❝ text \ text \ text. ❞}}$$
 <br><br>
 <p align="center">
   <img src="" width="400" />
