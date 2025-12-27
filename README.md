@@ -6,11 +6,15 @@
   <img src="" width="400" />
 <br><br>
 <p align="center">
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fswordgraft"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fswordgraft&label=PHIGHTERS&countColor=%23f29c47&style=plastic&labelStyle=none" /></a>
+<img src="https://i.imgur.com/svWJ2kI.gif" width="40" /> <img src="https://i.imgur.com/yG1EZk2.gif" width="40" />
 </p>
 <br><br>
 <p align="center">
    $$\color{#50a55d }{\mathscr{text \ text \ text.}}$$
   <p align="center">
   $$\color{#50a55d }{\mathscr{text \ text \ text.}}$$
+</p>
+<br><br>
+<p align="center">
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fswordgraft"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fswordgraft&label=PHIGHTERS&countColor=%23f29c47&style=plastic&labelStyle=none" /></a>
 </p>
