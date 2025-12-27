@@ -1,8 +1,8 @@
-　　　　　　　　　 $$\color{#c1492d }{\mathscr{❝ We'll \ win \ this \ one \ together, \ Biograft! ❞}}$$
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 $$\color{#c1492d }{\mathscr{❝ We'll \ win \ this \ one \ together, \ Biograft! ❞}}$$
 <br><br>
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 $$\color{#F29C47 }{\mathscr{❝ AFFIRMATIVE. \ ENEMIES \ WILL \ BE \ DESTROYED \ AT \ ALL \ COSTS. ❞}}$$
-                              <br><br>
-　　　　　　　　　 $$\color{#c1492d }{\mathscr{❝ Well... \ at \ least \ you \ got \ the \ spirit. ❞}}$$
+　　　　　　　　　 $$\color{#F29C47 }{\mathscr{❝ AFFIRMATIVE. \ ENEMIES \ WILL \ BE \ DESTROYED \ AT \ ALL \ COSTS. ❞}}$$
+<br><br>
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 $$\color{#c1492d }{\mathscr{❝ Well... \ at \ least \ you \ got \ the \ spirit. ❞}}$$
 <br><br>
 <p align="center">
   <img src="https://i.imgur.com/FXEcme8.png" width="300" />
@@ -19,3 +19,4 @@
 <p align="center">
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fswordgraft"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fswordgraft&label=PHIGHTERS&countColor=%23f29c47&style=plastic&labelStyle=none" /></a>
 </p>
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 
