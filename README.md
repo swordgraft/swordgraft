@@ -1,6 +1,8 @@
-　　　　　　　　　　　　　　　　　　　　　　　 $$\color{#c1492d }{\mathscr{❝ text \ text \ text. ❞}}$$
+　　　　　　　　　　　　 $$\color{#c1492d }{\mathscr{❝ We'll \ win \ this \ one \ together, \ Biograft! ❞}}$$
 <br><br>
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 $$\color{#F29C47 }{\mathscr{❝ text \ text \ text. ❞}}$$
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 $$\color{#F29C47 }{\mathscr{❝ AFFIRMATIVE. \ ENEMIES \ WILL \ BE \ DESTROYED \ AT \ ALL \ COSTS. ❞}}$$
+                              <br><br>
+　　　　　　　　　　　　 $$\color{#c1492d }{\mathscr{❝ Well... \ at \ least \ you \ got \ the \ spirit. ❞}}$$
 <br><br>
 <p align="center">
   <img src="" width="400" />
