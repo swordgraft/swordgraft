@@ -1,3 +1,4 @@
+<p align="justify">$$\color{#c1492d }{\mathscr{❝ text \ text \ text. ❞}}$$</p>
 <p align="right">
 $$\color{#c1492d }{\mathscr{❝ text \ text \ text. ❞}}$$
 $$\color{#F29C47 }{\mathscr{❝ text \ text \ text. ❞}}$$
