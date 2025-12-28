@@ -2,7 +2,7 @@
 <br><br>
 　　　　　　　　　 $$\color{#F29C47 }{\mathscr{❝ AFFIRMATIVE. \ ENEMIES \ WILL \ BE \ DESTROYED \ AT \ ALL \ COSTS. ❞}}$$
 <br><br>
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 $$\color{#c1492d }{\mathscr{❝ Well... \ at \ least \ you \ have \ the \ spirit. ❞}}$$
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 $$\color{#c1492d }{\mathscr{❝ Well... \ at \ least \ you \ have \ the \ spirit. ❞}}$$
 <br><br>
 <p align="center">
   <img src="https://i.imgur.com/XtN3v4v.png" width="300" />
